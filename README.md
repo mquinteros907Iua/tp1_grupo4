@@ -16,8 +16,7 @@ El objetivo principal es diseñar, simular y sintetizar hardware digital en la p
 
 ## 📂 Contenido del repositorio  
 - `informe/` → Informe en PDF del trabajo práctico.  
-- `src/` → Archivos fuente en **Verilog** (diseño de la ROM y testbench).  
-- `sim/` → Archivos de simulación (`.vvp`, `.vcd`).  
+- `src/` → Archivos fuente en **Verilog** (diseño de la ROM y testbench).   
 - `capturas/` → Capturas de pantalla de la simulación en GTKWave.  
 
 ---
